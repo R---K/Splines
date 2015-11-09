@@ -1,0 +1,53 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7660G + 7670M Dual Graphics (ID=0x9900)
+    Vendor:   ATI
+    VRAM:     2476 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\kalinin\development\Projects\2015_04_16_test\Done\Korchanek-Bartels_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\kalinin\development\Projects\2015_04_16_test\Done\Korchanek-Bartels_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\kalinin\development\Projects\2015_04_16_test\Done\Korchanek-Bartels_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\kalinin\development\Projects\2015_04_16_test\Done\Korchanek-Bartels_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\kalinin\development\Projects\2015_04_16_test\Done\Korchanek-Bartels_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\kalinin\development\Projects\2015_04_16_test\Done\Korchanek-Bartels_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.367 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\kalinin\development\Projects\2015_04_16_test\Done\Korchanek-Bartels_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\kalinin\development\Projects\2015_04_16_test\Done\Korchanek-Bartels_Data\Managed\System.dll (this message is harmless)
+ddd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+168.2702
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ddd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+212.9794
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ddd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+3.119309
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ddd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+41.36577
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
